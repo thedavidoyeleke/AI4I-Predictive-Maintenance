@@ -26,7 +26,7 @@ if 'history' not in st.session_state:
 # Load model
 @st.cache_resource
 def load_model():
-    return joblib.load("AI4I_Predictive_Maintenance_XGB_Model_1.joblib")
+    return joblib.load("AI4I_Predictive_Maintenance_XGB_model_1.joblib")
 
 model = load_model()
 
