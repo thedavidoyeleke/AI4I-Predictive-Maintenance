@@ -1,4 +1,3 @@
-````markdown
 # 🛠️ AI4I 2020 Predictive Maintenance Dashboard
 
 An end-to-end, enterprise-grade Machine Learning solution and interactive web application designed to predict equipment failures, analyze root causes, estimate Remaining Useful Life (RUL), and quantify the financial impact of maintenance decisions in industrial manufacturing environments.
@@ -33,7 +32,7 @@ Built using **Python**, **XGBoost**, **Imbalanced-learn (SMOTE)**, **SHAP (Expla
 
 ## 📁 Repository Structure
 
-```text
+````text
 ├── .ipynb_checkpoints/
 ├── data/
 │   └── ai4i2020.csv                          # AI4I 2020 Predictive Maintenance Dataset
@@ -42,8 +41,6 @@ Built using **Python**, **XGBoost**, **Imbalanced-learn (SMOTE)**, **SHAP (Expla
 ├── app.py                                    # Interactive Streamlit web application
 ├── requirements.txt                          # Python package dependencies
 └── README.md                                 # Project documentation
-```
-````
 
 ---
 
@@ -60,7 +57,7 @@ Built using **Python**, **XGBoost**, **Imbalanced-learn (SMOTE)**, **SHAP (Expla
 git clone [https://github.com/thedavidoyeleke/AI4I-Predictive-Maintenance.git](https://github.com/thedavidoyeleke/AI4I-Predictive-Maintenance.git)
 cd AI4I-Predictive-Maintenance
 
-```
+````
 
 ### 2. Set Up a Virtual Environment
 
@@ -119,7 +116,3 @@ The dataset used in this project is the **AI4I 2020 Predictive Maintenance Datas
 
 - **GitHub:** [@thedavidoyeleke](https://www.google.com/search?q=https://github.com/thedavidoyeleke)
 - **Role:** Data Scientist & Machine Learning Engineer
-
-```
-
-```
