@@ -1,4 +1,4 @@
-# 🛠️ AI4I 2020 Predictive Maintenance Dashboard
+# 🛠️ Uptime Engine Dashboard
 
 An end-to-end, enterprise-grade Machine Learning solution and interactive web application designed to predict equipment failures, analyze root causes, estimate Remaining Useful Life (RUL), and quantify the financial impact of maintenance decisions in industrial manufacturing environments.
 

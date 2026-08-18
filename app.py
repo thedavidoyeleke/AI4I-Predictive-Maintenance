@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 # Page configuration
 st.set_page_config(
-    page_title="AI4I Predictive Maintenance System",
+    page_title="Uptime Engine",
     page_icon="⚙️",
     layout="centered"
 )
@@ -117,7 +117,7 @@ def strict_validate_batch(df):
 # PAGE 1: WELCOME & LANDING PAGE
 # ==========================================
 if st.session_state.page == 'welcome':
-    st.title("⚙️ AI4I Predictive Maintenance Intelligence")
+    st.title("⚙️ Uptime Engine")
     st.markdown("""
     Welcome to the **David Oyeleke** industrial monitoring dashboard. 
     This application utilizes an advanced machine learning pipeline powered by **XGBoost** and **SMOTE** to forecast industrial machinery failures before they occur.
